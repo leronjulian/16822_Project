@@ -2,6 +2,6 @@
 
 
 * Source code for project that does:
-	- Single-view depth estimation - '''./depth_estimation/'''
-	- Neural Radiance Fields - "run_nerf.py"
+	- Single-view depth estimation 
+	- Neural Radiance Fields 
 
